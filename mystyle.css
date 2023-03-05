@@ -30,38 +30,57 @@ body {
   /* border: 1px white solid;*/
 
 }
-.inner-title{ 
+
+.inner-title {
   margin-left: 40px;
   margin-right: ;
 }
-.inner-title{ 
-  margin-left: ;
-  margin-right: ;
-}.inner-title{ 
-  margin-left: ;
-  margin-right: ;
-}.inner-title{ 
-  margin-left: ;
-  margin-right: ;
-}.inner-title{ 
-  margin-left: ;
-  margin-right: ;
-}.inner-title{ 
-  margin-left: ;
-  margin-right: ;
-}.inner-title{ 
-  margin-left: ;
-  margin-right: ;
-}.inner-title{ 
-  margin-left: ;
-  margin-right: ;
-}.inner-title{ 
-  margin-left: ;
-  margin-right: ;
-}.inner-title{ 
+
+.inner-title {
   margin-left: ;
   margin-right: ;
 }
+
+.inner-title {
+  margin-left: ;
+  margin-right: ;
+}
+
+.inner-title {
+  margin-left: ;
+  margin-right: ;
+}
+
+.inner-title {
+  margin-left: ;
+  margin-right: ;
+}
+
+.inner-title {
+  margin-left: ;
+  margin-right: ;
+}
+
+.inner-title {
+  margin-left: ;
+  margin-right: ;
+}
+
+.inner-title {
+  margin-left: ;
+  margin-right: ;
+}
+
+.inner-title {
+  margin-left: ;
+  margin-right: ;
+}
+
+.inner-title {
+  margin-left: ;
+  margin-right: ;
+}
+
 .title {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   /* margin-left: 60px;
@@ -70,7 +89,7 @@ body {
 
 .title-bar {
   display: flex;
-  
+
 }
 
 .nav-start {

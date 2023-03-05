@@ -1,0 +1,218 @@
+.container{
+  height: 100%;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* border: 1px white solid; */
+
+}
+body{background-color: rgba(0, 0, 0, 0.055);}
+.nav_bar{
+  height: 60px;
+  /* border: 1px blue solid; */
+  display: flex;
+}
+.nav-start,.nav-main,.nav-end {
+  border: 1px black solid;
+  height: 60px;
+  background-color: white;
+  /* border: 1px white solid;*/
+
+}
+.nav-start{
+  width: 15%;
+}
+.nav-end{
+  width: 20%;
+  display: flex;
+}
+.nav-main{
+  width: 65%;
+  background-color: white;
+  display: flex;
+}
+.search-inner{
+  font-family: cursive;
+  width: 100%;
+  height:30px ;
+  /* margin: 15px; */
+  
+}
+.search-bar{
+  height: 58px;
+  width: 61%;
+  padding: 13px;
+  /* display: flex; */
+}
+.select-inner{
+  width: 40px;
+  height: 30px;
+  /* margin: 10px; */
+}
+.select-div{
+  display: flex;
+}
+.nav-start{
+background-color: white;
+}
+.logo{
+  height:32px;
+  width: auto;
+  margin: 12px;
+  margin-left: 15%;
+}
+.button0{
+  height: 30px;
+  width: 30px;
+  background-color: white;
+}
+.upgrade-button{
+  padding: 2px;
+  height:30px;
+  width: 100px;
+  margin-left: 20px;
+  margin-top: 13px;
+}
+.be_a_seller-div {
+  padding: 5px;
+  height:30px;
+  width: 190px;
+  margin-left: 20px;
+  border: 1px black solid;
+  margin-top: 13px;
+
+  /* text-align: center; */
+}
+.cart-div, .login-div {
+  padding: 5px;
+  height:30px;
+  width: 100px;
+  margin-left: 20px;
+  /* border: 1px black solid; */
+  margin-top: 13px;
+
+}
+/* .option{
+  /* padding: 10px; */
+  /* height: 50px;
+  width: 50px;
+  margin: 5px 50px;
+} */ 
+.option-a{
+  height: 80px;
+  width: 80px;
+}
+.option-b{
+  height: 80px;
+  width: 80px;
+}
+.option-c{
+  height: 60px;
+  width: 70px;
+}
+.option-d{
+  height: 60px;
+  width: 60px;
+}
+/* .option-3{
+  margin-top: 0px;
+
+}*/
+
+.nav_bar2{ 
+  display: flex;
+}
+.nav_bar12{
+  height: 90px;
+  border: 1px black solid;
+  display: flex;
+  background-color: white;
+}
+.anim_add{
+  margin: 0%;
+  height: 300px;
+  width: 99%;
+  border: 1px black solid;
+  display: flex;
+  margin-left: 9px;
+}
+.anim_add_component-2, .anim_add_component-3{
+  width: 50px;
+  height: 50px;
+  margin-top: 125px;
+  padding-top: 15px;
+  border: 1px black solid;
+  text-align: center;
+}
+.anim_add_component-2{
+  margin-left: 40px;
+}
+.anim_add_component-3{
+  margin-right: 40px;
+}
+.anim_add_component-1{
+  height: auto;
+  width:90%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+margin-left: 10%; 
+margin-right: 10%; 
+padding: 0%;
+border: 1PX black solid;
+/* animation: add 20s 1s 100 ; */
+  /* transform: translateX(20px); */
+}
+@keyframes add{
+  0%{
+    background-image: url(./Images/Affiliate-Marketing.webp);
+    background-repeat: no-repeat;
+  }
+  30%{
+    background-image: url(./Images/facebook-video-viral-hack.png);
+    background-repeat: no-repeat;
+
+  }
+  60%{
+    background-image: url(./Images/Social-media-advertising-and-design-tips.avif);
+    background-repeat: no-repeat;
+
+  }
+  90%{
+    background-image: url(./);
+  }
+}
+/* body{
+  background-image: url(./Images/galexy.avif);
+  background-repeat: no-repeat;
+} */
+.body1{
+  height: 300px;
+  width: 99% ;
+  border: 1px black solid;
+  margin: 9px;
+  display: flex;
+}
+.row{
+  height: 280px;
+  width: 280px ;
+  border: 1px black solid;
+  margin: 10px;
+  border-radius: 9px;
+}
+/* span{
+  text-transform: capitalize;
+  font-style: italic;
+}
+ */
+ .foot{
+  height: 400px;
+  border: 1px black solid;
+ }
+
+
+
+
+
+

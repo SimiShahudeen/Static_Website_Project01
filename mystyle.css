@@ -456,11 +456,8 @@ a.poster:hover {
 .foot1{
   color: rgba(41, 39, 39, 0.555);
 }
-.footer-inner{
-display: flex;  
-}
+
 .child-footer{
 margin-left: 10px;}
-.child-footer2{
-  margin-left: 1000px;}
+
 

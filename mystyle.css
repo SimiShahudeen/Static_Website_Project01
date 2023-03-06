@@ -305,7 +305,7 @@ body {
 }
 
 .anim_add_component-2, .anim_add_component-3 {
-  width: 50px;
+  width: 30px;
   height: 50px;
   margin-top: 125px;
   padding-top: 15px;
@@ -318,7 +318,7 @@ body {
 }
 
 .anim_add_component-3 {
-  margin-right: 40px;
+  margin-right: 38px;
 }
 
 .anim_add_component-1 {
@@ -375,7 +375,7 @@ body {
   height: 280px;
   width: 180px;
   /* border: 1px black solid; */
-  margin: 10px;
+  margin: 15px;
   border-radius: 9px;
 }
 

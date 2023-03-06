@@ -447,10 +447,11 @@ a.poster:hover {
 
 }
 .footer {
-  height: 100px;
+  /* height: 100px; */
   background-color: rgba(128, 128, 128, 0.459);
-  padding-top: 70px;
-  padding-left: 20px;
+  padding: 20px;
+  margin-top: 30px;
+  /* padding-left: 20px; */
 }
 .foot1{
   color: rgba(41, 39, 39, 0.555);

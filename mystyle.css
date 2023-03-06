@@ -11,6 +11,7 @@
 }
 
 body {
+  /* margin: 0px; */
   background-color: rgba(0, 0, 0, 0.055);
 }
 .login-ani{
@@ -308,7 +309,7 @@ body {
   height: 50px;
   margin-top: 125px;
   padding-top: 15px;
-  border: 1px black solid;
+  /* border: 1px black solid; */
   text-align: center;
 }
 
@@ -328,7 +329,7 @@ body {
   margin-left: 10%;
   margin-right: 10%;
   padding: 0%;
-  border: 1px black solid;
+  /* border: 1px black solid; */
   /* animation: add 20s 1s 100 ; */
   /* transform: translateX(20px); */
 }
@@ -362,16 +363,18 @@ body {
 } */
 .body1 {
   height: 300px;
-  width: 99%;
-  border: 1px black solid;
-  margin: 9px;
+  /* width: 100%; */
+  /* width: 1340px; */
+  /* border: 1px black solid; */
+  margin: 10px;
   display: flex;
+  background-color: white;
 }
 
 .row {
   height: 280px;
-  width: 280px;
-  border: 1px black solid;
+  width: 180px;
+  /* border: 1px black solid; */
   margin: 10px;
   border-radius: 9px;
 }
@@ -383,7 +386,7 @@ body {
  */
 .foot {
   height: 400px;
-  border: 1px black solid;
+  /* border: 1px black solid; */
 }
 .row1{
   position: relative;
@@ -393,4 +396,11 @@ body {
   height: 278px;
   width: 188px;
   border-radius: 10px;
+}
+a.poster{ 
+  /* transition-delay: 10s; */
+  transition: 1s ease-in-out forwards; 
+}
+a.poster:hover {
+  transform: scale(1.2);
 }
